@@ -3011,21 +3011,21 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="45.3" y="21.3" size="1.016" layer="27" rot="R90"/>
 </element>
 <element name="X3" library="M2M-Connectors" package="1X02P-2.54" value="POWER" x="58.5" y="45.5" smashed="yes">
+<attribute name="NAME" x="57.484" y="44.865" size="1.27" layer="48"/>
+<attribute name="NAME" x="57.865" y="44.865" size="1.016" layer="51"/>
 <attribute name="NAME" x="57.23" y="47.0875" size="1.016" layer="25"/>
 <attribute name="NAME" x="57.23" y="42.96" size="1.016" layer="27"/>
-<attribute name="NAME" x="57.865" y="44.865" size="1.016" layer="51"/>
-<attribute name="NAME" x="57.484" y="44.865" size="1.27" layer="48"/>
 </element>
 <element name="X1" library="M2M-Connectors" package="1X12-2.54" value="INPUT" x="24" y="4.5" smashed="yes">
-<attribute name="NAME" x="35.43" y="4.5" size="1.27" layer="48" align="center"/>
 <attribute name="NAME" x="33.525" y="3.865" size="1.016" layer="51"/>
 <attribute name="NAME" x="22.73" y="6.0875" size="1.016" layer="25"/>
+<attribute name="NAME" x="35.43" y="4.5" size="1.27" layer="48" align="center"/>
 <attribute name="VALUE" x="22.73" y="1.96" size="1.016" layer="27"/>
 </element>
 <element name="X4" library="M2M-Connectors" package="1X12-2.54" value="OUTPUT" x="23.5" y="45.5" smashed="yes">
-<attribute name="NAME" x="34.93" y="45.5" size="1.27" layer="48" align="center"/>
 <attribute name="NAME" x="33.025" y="44.865" size="1.016" layer="51"/>
 <attribute name="NAME" x="22.23" y="47.0875" size="1.016" layer="25"/>
+<attribute name="NAME" x="34.93" y="45.5" size="1.27" layer="48" align="center"/>
 <attribute name="VALUE" x="22.23" y="42.96" size="1.016" layer="27"/>
 </element>
 <element name="H1" library="M2M-Holes" package="3.2-PAD" value="MOUNTHOLE-PAD3.2" x="4" y="4" smashed="yes"/>
