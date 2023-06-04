@@ -206,39 +206,41 @@ DIN A4, landscape with location and doc. field</description>
 </library>
 <library name="M2M-IC">
 <packages>
-<package name="SOP-20">
-<smd name="5" x="-0.635" y="-3.8" dx="0.76" dy="1.27" layer="1"/>
-<smd name="6" x="0.635" y="-3.8" dx="0.76" dy="1.27" layer="1"/>
-<smd name="7" x="1.905" y="-3.8" dx="0.76" dy="1.27" layer="1"/>
-<smd name="8" x="3.175" y="-3.8" dx="0.76" dy="1.27" layer="1"/>
-<smd name="9" x="4.445" y="-3.8" dx="0.76" dy="1.27" layer="1"/>
-<smd name="10" x="5.715" y="-3.8" dx="0.76" dy="1.27" layer="1"/>
-<smd name="4" x="-1.905" y="-3.8" dx="0.76" dy="1.27" layer="1"/>
-<smd name="3" x="-3.175" y="-3.8" dx="0.76" dy="1.27" layer="1"/>
-<smd name="2" x="-4.445" y="-3.8" dx="0.76" dy="1.27" layer="1"/>
-<smd name="1" x="-5.715" y="-3.8" dx="0.76" dy="1.27" layer="1"/>
-<smd name="20" x="-5.715" y="3.8" dx="0.76" dy="1.27" layer="1"/>
-<smd name="19" x="-4.445" y="3.8" dx="0.76" dy="1.27" layer="1"/>
-<smd name="18" x="-3.175" y="3.8" dx="0.76" dy="1.27" layer="1"/>
-<smd name="17" x="-1.905" y="3.8" dx="0.76" dy="1.27" layer="1"/>
-<smd name="16" x="-0.635" y="3.8" dx="0.76" dy="1.27" layer="1"/>
-<smd name="15" x="0.635" y="3.8" dx="0.76" dy="1.27" layer="1"/>
-<smd name="14" x="1.905" y="3.8" dx="0.76" dy="1.27" layer="1"/>
-<smd name="13" x="3.175" y="3.8" dx="0.76" dy="1.27" layer="1"/>
-<smd name="12" x="4.445" y="3.8" dx="0.76" dy="1.27" layer="1"/>
-<smd name="11" x="5.715" y="3.8" dx="0.76" dy="1.27" layer="1"/>
-<wire x1="-6.4" y1="2.65" x2="6.4" y2="2.65" width="0.127" layer="21"/>
-<wire x1="6.4" y1="2.65" x2="6.4" y2="-2.65" width="0.127" layer="21"/>
-<wire x1="6.4" y1="-2.65" x2="-6.4" y2="-2.65" width="0.127" layer="21"/>
-<wire x1="-6.4" y1="-2.65" x2="-6.4" y2="2.65" width="0.127" layer="21"/>
-<wire x1="-6.4" y1="2.65" x2="6.4" y2="2.65" width="0.127" layer="51"/>
-<wire x1="6.4" y1="2.65" x2="6.4" y2="-2.65" width="0.127" layer="51"/>
-<wire x1="6.4" y1="-2.65" x2="-6.4" y2="-2.65" width="0.127" layer="51"/>
-<wire x1="-6.4" y1="-2.65" x2="-6.4" y2="2.65" width="0.127" layer="51"/>
+<package name="SOP-20-300">
+<smd name="5" x="-0.635" y="-4.73" dx="0.7" dy="1.8" layer="1"/>
+<smd name="6" x="0.635" y="-4.73" dx="0.7" dy="1.8" layer="1"/>
+<smd name="7" x="1.905" y="-4.73" dx="0.7" dy="1.8" layer="1"/>
+<smd name="8" x="3.175" y="-4.73" dx="0.7" dy="1.8" layer="1"/>
+<smd name="9" x="4.445" y="-4.73" dx="0.7" dy="1.8" layer="1"/>
+<smd name="10" x="5.715" y="-4.73" dx="0.7" dy="1.8" layer="1"/>
+<smd name="4" x="-1.905" y="-4.73" dx="0.7" dy="1.8" layer="1"/>
+<smd name="3" x="-3.175" y="-4.73" dx="0.7" dy="1.8" layer="1"/>
+<smd name="2" x="-4.445" y="-4.73" dx="0.7" dy="1.8" layer="1"/>
+<smd name="1" x="-5.715" y="-4.73" dx="0.7" dy="1.8" layer="1"/>
+<smd name="20" x="-5.715" y="4.73" dx="0.7" dy="1.8" layer="1"/>
+<smd name="19" x="-4.445" y="4.73" dx="0.7" dy="1.8" layer="1"/>
+<smd name="18" x="-3.175" y="4.73" dx="0.7" dy="1.8" layer="1"/>
+<smd name="17" x="-1.905" y="4.73" dx="0.7" dy="1.8" layer="1"/>
+<smd name="16" x="-0.635" y="4.73" dx="0.7" dy="1.8" layer="1"/>
+<smd name="15" x="0.635" y="4.73" dx="0.7" dy="1.8" layer="1"/>
+<smd name="14" x="1.905" y="4.73" dx="0.7" dy="1.8" layer="1"/>
+<smd name="13" x="3.175" y="4.73" dx="0.7" dy="1.8" layer="1"/>
+<smd name="12" x="4.445" y="4.73" dx="0.7" dy="1.8" layer="1"/>
+<smd name="11" x="5.715" y="4.73" dx="0.7" dy="1.8" layer="1"/>
+<wire x1="-6.4" y1="3.7" x2="6.4" y2="3.7" width="0.127" layer="21"/>
+<wire x1="6.4" y1="3.7" x2="6.4" y2="-3.7" width="0.127" layer="21"/>
+<wire x1="6.4" y1="-3.7" x2="-6.4" y2="-3.7" width="0.127" layer="21"/>
+<wire x1="-6.4" y1="-3.7" x2="-6.4" y2="3.7" width="0.127" layer="21"/>
+<wire x1="-6.4" y1="3.75" x2="6.4" y2="3.75" width="0.127" layer="51"/>
+<wire x1="6.4" y1="3.75" x2="6.4" y2="-3.75" width="0.127" layer="51"/>
+<wire x1="6.4" y1="-3.75" x2="-6.4" y2="-3.75" width="0.127" layer="51"/>
+<wire x1="-6.4" y1="-3.75" x2="-6.4" y2="3.75" width="0.127" layer="51"/>
 <text x="-6.9" y="-2.7" size="1.016" layer="25" rot="R90">&gt;NAME</text>
 <text x="7.8" y="-2.7" size="1.016" layer="27" rot="R90">&gt;VALUE</text>
-<rectangle x1="-7" y1="-5" x2="7" y2="5" layer="39"/>
+<rectangle x1="-7" y1="-6" x2="7" y2="6" layer="39"/>
 <text x="0" y="0" size="1.016" layer="51" align="center">&gt;NAME</text>
+<circle x="-5.5" y="-3" radius="0.5" width="0.127" layer="21"/>
+<circle x="-5.5" y="-3" radius="0.5" width="0.127" layer="48"/>
 </package>
 </packages>
 <symbols>
@@ -277,7 +279,7 @@ DIN A4, landscape with location and doc. field</description>
 <gate name="G$1" symbol="PT2258" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="SOP-20">
+<device name="-S" package="SOP-20-300">
 <connects>
 <connect gate="G$1" pin="CODE1" pad="17"/>
 <connect gate="G$1" pin="CODE2" pad="4"/>
@@ -1469,7 +1471,7 @@ DIN A4, landscape with location and doc. field</description>
 </classes>
 <parts>
 <part name="FRAME1" library="M2M-Frames" deviceset="FRAME-M2M-A4L" device=""/>
-<part name="U1" library="M2M-IC" deviceset="PT2258" device="" value="PT2258-S"/>
+<part name="U1" library="M2M-IC" deviceset="PT2258" device="-S" value="PT2258-S"/>
 <part name="SUPPLY1" library="M2M-Power" deviceset="VCC" device=""/>
 <part name="SUPPLY2" library="M2M-Power" deviceset="AGND" device=""/>
 <part name="C1" library="M2M-Passives" deviceset="CAP-POL-ALUM" device="ROQANG-RVT0405" value="10uF"/>
